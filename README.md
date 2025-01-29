@@ -1,6 +1,4 @@
 
-Here’s the revised version tailored for an engineering student discussion:
-
 BTU Page Discussion Platform for Engineering Students
 Introduction
 The BTU Page Discussion Platform is a real-time communication tool designed to foster collaboration and knowledge exchange among engineering students. This document outlines the system, focusing on its technological stack, implementation process, and how it supports academic engagement and peer learning in engineering education.
@@ -49,8 +47,4 @@ Collaborative Problem Solving: Students can post engineering problems and soluti
 Conclusion
 The BTU Page Discussion Platform is a powerful tool that enables real-time communication and collaboration among engineering students. Its user-friendly interface, real-time messaging, and secure architecture make it an essential platform for academic discussions, project collaborations, and peer learning in the field of engineering education.
 
-References
-Next.js Documentation
-Node.js Documentation
-WebSocket Technology
-MongoDB Documentation
+
